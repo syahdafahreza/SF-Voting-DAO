@@ -1,6 +1,5 @@
 # SF Voting DAO
-![Main Logo](https://github.com/user-attachments/assets/2cb66edf-74ea-48f7-ad43-22ee288d48cc)
-
+![Main Logo](https://github.com/user-attachments/assets/eb6447ed-6b04-49eb-975b-1ac81caea6c1)
 A private and secure on-chain voting system using Semaphore for anonymity and Hardhat for robust local development.
 
 ## 📖 Overview
